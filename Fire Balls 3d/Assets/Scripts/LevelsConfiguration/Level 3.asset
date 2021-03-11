@@ -15,5 +15,5 @@ MonoBehaviour:
   _towerSize: 11
   _obstaclePattern: {fileID: 2636835018712540182, guid: bfde62f1a5622a34eaa3e494bc820f3c, type: 3}
   _blockPattern: {fileID: 3036251860378836560, guid: fd4ed32b0418a574caa46778dcbd7162, type: 3}
-  LevelStarted: 1
-  LevelPassed: 1
+  LevelStarted: 0
+  LevelPassed: 0

@@ -16,4 +16,4 @@ MonoBehaviour:
   _obstaclePattern: {fileID: 1075710971964975539, guid: a1d4177d27761fe46b71917c91ff7943, type: 3}
   _blockPattern: {fileID: 3036251860378836560, guid: fd4ed32b0418a574caa46778dcbd7162, type: 3}
   LevelStarted: 0
-  LevelPassed: 1
+  LevelPassed: 0
